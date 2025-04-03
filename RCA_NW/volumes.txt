@@ -1,0 +1,17 @@
+File STL		Volume (cm³)
+========================================
+artery.stl		54.85290 cm³
+left_artery.stl		4.05508 cm³
+left_cyst_1.stl		56.18544 cm³
+left_cyst_2.stl		3.14365 cm³
+left_kidney.stl		191.15208 cm³
+left_renal_vein.stl		9.84573 cm³
+left_urinary_system.stl		7.54327 cm³
+light_renal_vein.stl		6.06694 cm³
+right_artery.stl		4.88276 cm³
+right_kidney.stl		179.86360 cm³
+right_tumor.stl		64.88191 cm³
+right_urinary_sistem.stl		8.39110 cm³
+svc.stl		23.55246 cm³
+urinary_system.stl		15.93553 cm³
+veins.stl		39.13230 cm³
