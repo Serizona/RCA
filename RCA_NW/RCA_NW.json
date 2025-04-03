@@ -233,24 +233,6 @@
                 "displacementMap": "textures/depth.jpg",
                 "displacementScale": 0.05
             }
-        },
-        {
-            "name": "urinary_system.stl",
-            "path": "RCA_NW/urinary_system.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NW/urinary_system.stl",
-            "opacity": 1.0,
-            "color": "#FFFFFF",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
         }
     ]
 }
