@@ -167,7 +167,7 @@
             "path": "RCA_NW/right_tumor.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NW/right_tumor.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#63bbff",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
