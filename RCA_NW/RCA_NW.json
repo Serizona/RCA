@@ -23,7 +23,7 @@
             "path": "RCA_NW/cava.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NW/cava.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#8da7f4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -199,11 +199,11 @@
             }
         },
         {
-            "name": "right_urinary_sistem.stl",
-            "path": "RCA_NW/right_urinary_sistem.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NW/right_urinary_sistem.stl",
+            "name": "right_urinary_system.stl",
+            "path": "RCA_NW/right_urinary_system.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NW/right_urinary_system.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#d0e667",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
