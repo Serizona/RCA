@@ -23,7 +23,7 @@
             "path": "RCA_NAR/cava.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NAR/cava.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#8da7f4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -132,6 +132,24 @@
             "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NAR/left_cyst_2.stl",
             "opacity": 1.0,
             "color": "#cdcd64",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_kidney.stl",
+            "path": "RCA_NAR/left_kidney.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NAR/left_kidney.stl",
+            "opacity": 0.4,
+            "color": "#b96653",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
