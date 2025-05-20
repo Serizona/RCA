@@ -311,7 +311,7 @@
             "path": "RCA_NAR/right_veins.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NAR/right_veins.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#8da7f4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
