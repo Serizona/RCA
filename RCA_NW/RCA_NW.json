@@ -113,7 +113,7 @@
             "path": "RCA_NW/left_urinary_system.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NW/left_urinary_system.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#d0e667",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
