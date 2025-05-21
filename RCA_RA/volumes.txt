@@ -3,6 +3,7 @@ File STL		Volume (cm³)
 LRAterritory_1.stl		29.15873 cm³
 LRAterritory_2.stl		76.08980 cm³
 LRAterritory_3.stl		64.62756 cm³
+LRAterritory_4.stl		20.37610 cm³
 RRAterritory_1.stl		56.74612 cm³
 RRAterritory_2.stl		16.13757 cm³
 RRAterritory_3.stl		28.54976 cm³
