@@ -145,6 +145,24 @@
             }
         },
         {
+            "name": "mass_shell.stl",
+            "path": "RCA_NW/mass_shell.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NW/mass_shell.stl",
+            "opacity": 0.4,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
             "name": "right_artery.stl",
             "path": "RCA_NW/right_artery.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_NW/right_artery.stl",
