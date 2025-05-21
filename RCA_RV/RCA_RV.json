@@ -1,65 +1,11 @@
 {
     "models": [
         {
-            "name": "LRV_branch_1.stl",
-            "path": "RCA_RV/LRV_branch_1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRV_branch_1.stl",
-            "opacity": 1.0,
-            "color": "#865c13",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
-        },
-        {
-            "name": "LRV_branch_2.stl",
-            "path": "RCA_RV/LRV_branch_2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRV_branch_2.stl",
-            "opacity": 1.0,
-            "color": "#29fef6",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
-        },
-        {
-            "name": "LRV_branch_3.stl",
-            "path": "RCA_RV/LRV_branch_3.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRV_branch_3.stl",
-            "opacity": 1.0,
-            "color": "#5428d5",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
-        },
-        {
             "name": "LRV_branch_4.stl",
             "path": "RCA_RV/LRV_branch_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRV_branch_4.stl",
             "opacity": 1.0,
-            "color": "#fa903c",
+            "color": "#3b29e2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -73,11 +19,11 @@
             }
         },
         {
-            "name": "LRV_territory_1.stl",
-            "path": "RCA_RV/LRV_territory_1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRV_territory_1.stl",
+            "name": "LRVbranch_1.stl",
+            "path": "RCA_RV/LRVbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRVbranch_1.stl",
             "opacity": 1.0,
-            "color": "#865c13",
+            "color": "#645943",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -91,11 +37,11 @@
             }
         },
         {
-            "name": "LRV_territory_2.stl",
-            "path": "RCA_RV/LRV_territory_2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRV_territory_2.stl",
+            "name": "LRVbranch_2.stl",
+            "path": "RCA_RV/LRVbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRVbranch_2.stl",
             "opacity": 1.0,
-            "color": "#29fef6",
+            "color": "#ad75c4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -109,11 +55,11 @@
             }
         },
         {
-            "name": "LRV_territory_3.stl",
-            "path": "RCA_RV/LRV_territory_3.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRV_territory_3.stl",
+            "name": "LRVbranch_3.stl",
+            "path": "RCA_RV/LRVbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRVbranch_3.stl",
             "opacity": 1.0,
-            "color": "#5428d5",
+            "color": "#b65eeb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -127,11 +73,11 @@
             }
         },
         {
-            "name": "LRV_territory_4.stl",
-            "path": "RCA_RV/LRV_territory_4.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRV_territory_4.stl",
-            "opacity": 1.0,
-            "color": "#fa903c",
+            "name": "LRVterritory_1.stl",
+            "path": "RCA_RV/LRVterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRVterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#645943",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -145,11 +91,11 @@
             }
         },
         {
-            "name": "RRV_branch_1.stl",
-            "path": "RCA_RV/RRV_branch_1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_branch_1.stl",
-            "opacity": 1.0,
-            "color": "#865c13",
+            "name": "LRVterritory_2.stl",
+            "path": "RCA_RV/LRVterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRVterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#ad75c4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -163,11 +109,11 @@
             }
         },
         {
-            "name": "RRV_branch_2.stl",
-            "path": "RCA_RV/RRV_branch_2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_branch_2.stl",
-            "opacity": 1.0,
-            "color": "#29fef6",
+            "name": "LRVterritory_3.stl",
+            "path": "RCA_RV/LRVterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRVterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#b65eeb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -181,47 +127,11 @@
             }
         },
         {
-            "name": "RRV_branch_3.stl",
-            "path": "RCA_RV/RRV_branch_3.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_branch_3.stl",
-            "opacity": 1.0,
-            "color": "#5428d5",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
-        },
-        {
-            "name": "RRV_branch_4.stl",
-            "path": "RCA_RV/RRV_branch_4.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_branch_4.stl",
-            "opacity": 1.0,
-            "color": "#fa903c",
-            "material": {
-                "type": "MeshStandardMaterial",
-                "roughness": 0.8,
-                "metalness": 0.0,
-                "normalMap": "textures/normal.jpg",
-                "aoMap": "textures/ambient_occlusion.jpg",
-                "clearcoat": 0.3,
-                "clearcoatRoughness": 0.6,
-                "displacementMap": "textures/depth.jpg",
-                "displacementScale": 0.05
-            }
-        },
-        {
-            "name": "RRV_branch_5.stl",
-            "path": "RCA_RV/RRV_branch_5.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_branch_5.stl",
-            "opacity": 1.0,
-            "color": "#61c267",
+            "name": "LRVterritory_4.stl",
+            "path": "RCA_RV/LRVterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/LRVterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#3b29e2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -253,11 +163,11 @@
             }
         },
         {
-            "name": "RRV_territory_1.stl",
-            "path": "RCA_RV/RRV_territory_1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_territory_1.stl",
+            "name": "RRVbranch_1.stl",
+            "path": "RCA_RV/RRVbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVbranch_1.stl",
             "opacity": 1.0,
-            "color": "#865c13",
+            "color": "#645943",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -271,11 +181,11 @@
             }
         },
         {
-            "name": "RRV_territory_2.stl",
-            "path": "RCA_RV/RRV_territory_2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_territory_2.stl",
+            "name": "RRVbranch_2.stl",
+            "path": "RCA_RV/RRVbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVbranch_2.stl",
             "opacity": 1.0,
-            "color": "#29fef6",
+            "color": "#ad75c4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -289,11 +199,11 @@
             }
         },
         {
-            "name": "RRV_territory_3.stl",
-            "path": "RCA_RV/RRV_territory_3.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_territory_3.stl",
+            "name": "RRVbranch_3.stl",
+            "path": "RCA_RV/RRVbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVbranch_3.stl",
             "opacity": 1.0,
-            "color": "#5428d5",
+            "color": "#b65eeb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -307,11 +217,11 @@
             }
         },
         {
-            "name": "RRV_territory_4.stl",
-            "path": "RCA_RV/RRV_territory_4.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_territory_4.stl",
+            "name": "RRVbranch_4.stl",
+            "path": "RCA_RV/RRVbranch_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVbranch_4.stl",
             "opacity": 1.0,
-            "color": "#fa903c",
+            "color": "#3b29e2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -325,11 +235,101 @@
             }
         },
         {
-            "name": "RRV_territory_5.stl",
-            "path": "RCA_RV/RRV_territory_5.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRV_territory_5.stl",
+            "name": "RRVbranch_5.stl",
+            "path": "RCA_RV/RRVbranch_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVbranch_5.stl",
             "opacity": 1.0,
-            "color": "#61c267",
+            "color": "#5c08a1",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRVterritory_1.stl",
+            "path": "RCA_RV/RRVterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#645943",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRVterritory_2.stl",
+            "path": "RCA_RV/RRVterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#ad75c4",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRVterritory_3.stl",
+            "path": "RCA_RV/RRVterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#b65eeb",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRVterritory_4.stl",
+            "path": "RCA_RV/RRVterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#3b29e2",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRVterritory_5.stl",
+            "path": "RCA_RV/RRVterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/RCA/master/RCA_RV/RRVterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#5c08a1",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
